@@ -1,0 +1,19 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: RMX3063
+Android Version: 10
+Android API: 29
+getNetworkTypeName: UNKNOW
+WindowWidth And WindowHeight: 720*1448
+WindowDensity:2.0
+System's currenTimeMillis: 1697730139344
+TimeZone: libcore.util.ZoneInfo[id="Asia/Kolkata",mRawOffset=19800000,mEarliestRawOffset=19270000,mUseDst=false,mDstSavings=0,transitions=5]
+
+2023-10-19 20_56_38 153 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
+2023-10-19 21_13_16 633 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2023-10-19 21_13_20 343 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2023-10-19 21_37_41 067 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2023-10-19 21_37_48 049 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2023-11-17 13_47_44 030 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
+2025-01-10 19_23_50 013 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
